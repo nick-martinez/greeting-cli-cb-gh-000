@@ -4,4 +4,4 @@ def greeting(name)
 end
 
 puts "please enter your name to make this more personal"
-name = gets.strip
+# name = gets.strip
