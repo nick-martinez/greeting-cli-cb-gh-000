@@ -5,5 +5,3 @@ end
 
 puts "please enter your name to make this more personal"
 name = gets.strip
-
-greeting(name)
